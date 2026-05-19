@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dataset
+cifar-100-python/
+data/
+
+# ZIP archives
+zip/
+
+# SSH / host files
+root@*
+
+# Saved model outputs (optional - remove if you want plots in repo)
+*.png
+
+# OWASP doc (unrelated to project)
+OWASP_SCP_Quick_Reference_Guide_v21.pdf
